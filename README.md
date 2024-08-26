@@ -6,7 +6,7 @@
 </h1>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **My portfolio**
 
 - 🌱 I’m currently learning **Javascript, Node.js and Express.js**
 
@@ -39,3 +39,4 @@
 [![](https://visitcount.itsvg.in/api?id=Abhijat05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Created By Abhijat-->
+<!-- Should be use only with required permission-->
