@@ -43,3 +43,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=Abhijat05&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/Abhijat05?theme=radical&font=Fredoka%20One&ext=heatmap)
