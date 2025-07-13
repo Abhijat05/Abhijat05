@@ -59,10 +59,6 @@ const abhijat = {
   </p>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Tech Stack Animation"/>
-</div>
-
 ---
 
 ## 🌐 Connect With Me
@@ -94,17 +90,13 @@ const abhijat = {
   </table>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" alt="Connect Animation"/>
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhijat05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=📈%20GitHub%20Stats" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijat05&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhijat05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=📈%20GitHub%20Stats" alt="GitHub Stats"/>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijat05&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
