@@ -20,9 +20,9 @@ const abhijat = {
     name: "Abhijat Sinha",
     title: "Full Stack Developer",
     location: "India 🇮🇳",
-    currentlyWorking: ["CODENEXUS", "DISCTS"],
+    currentlyWorking: ["PreViewFlow"],
     learning: ["React.js", "Next.js"],
-    expertise: "Web Development",
+    expertise: "Web Development And Cloud Devops",
     email: "abhijatsinha2004@gmail.com",
     personality: "Curious & Passionate",
     motto: "Code, Learn, Repeat! 🔄"
