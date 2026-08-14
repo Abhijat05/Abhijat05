@@ -4,24 +4,24 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+There!+I'm+Abhijat;🚀+Full+Stack+Developer;💻+Building+Amazing+Web+Experiences;🌟+Always+Learning+%26+Growing;📱+Open+to+Collaborations!&center=true&width=600&height=100&font=Fira%20Code&size=22&pause=1000&color=58A6FF&vCenter=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+I'm+Abhijat;Full+Stack+Developer;Building+Amazing+Web+Experiences;Always+Learning+%26+Growing;Open+to+Collaborations!&center=true&width=600&height=100&font=Fira%20Code&size=22&pause=1000&color=58A6FF&vCenter=true" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Hey there! I'm **Abhijat**, a passionate Full Stack Developer from India 🇮🇳 who loves turning ideas into reality through code. I thrive on building seamless web experiences that combine beautiful design with powerful functionality. When I'm not coding, you'll find me exploring the latest web technologies, solving algorithmic challenges on LeetCode, or experimenting with 3D animations.
+Hey there! I'm **Abhijat**, a passionate Full Stack Developer from India who loves turning ideas into reality through code. I thrive on building seamless web experiences that combine beautiful design with powerful functionality. When I'm not coding, you'll find me exploring the latest web technologies, solving algorithmic challenges on LeetCode, or experimenting with 3D animations.
 
-**🔭 Currently working on:** [PreViewFlow](https://github.com/abhijat05) - Next-gen workflow management platform  
-**🌱 Learning:** React.js, Next.js, AWS Cloud Architecture  
-**💬 Ask me about:** MERN Stack, DevOps, Three.js animations  
-**⚡ Fun fact:** I love combining code with creative 3D visuals!
+**Currently working on:** [PreViewFlow](https://github.com/abhijat05) - Next-gen workflow management platform  
+**Learning:** React.js, Next.js, AWS Cloud Architecture  
+**Ask me about:** MERN Stack, DevOps, Three.js animations  
+**Fun fact:** I love combining code with creative 3D visuals!
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -33,14 +33,14 @@ Hey there! I'm **Abhijat**, a passionate Full Stack Developer from India 🇮�
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
 <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 </p>
 
 ### Backend & Database
 <p>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"/>
@@ -69,35 +69,35 @@ Hey there! I'm **Abhijat**, a passionate Full Stack Developer from India 🇮�
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhijat05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijat05&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=abhijat05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=abhijat05&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijat05&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=abhijat05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 💻 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/abhijat05?theme=radical&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhijat05&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=abhijat05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/abhijat05?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+---
+
+## Connect With Me
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijat-sinha-990ab82a4)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im_abhijat05)
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhijat05&logo=leetcode&logoColor=yellow)](https://leetcode.com/abhijat05/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/abhijat05/)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Abhijat05)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijatsinha2004@gmail.com)
 
@@ -107,7 +107,7 @@ Hey there! I'm **Abhijat**, a passionate Full Stack Developer from India 🇮�
 
 <div align="center">
 
-### 🎯 Current Streak
+### Current Streak
 ![](https://github-readme-activity-graph.vercel.app/graph?username=abhijat05&theme=tokyo-night&hide_border=true)
 
 </div>
