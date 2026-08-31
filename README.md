@@ -1,31 +1,50 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABHIJAT%20SINHA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABHIJAT%20SINHA&fontSize=42&fontColor=fff&animation=twinkling" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+I'm+Abhijat;Full+Stack+Developer;Building+Amazing+Web+Experiences;Always+Learning+%26+Growing;Open+to+Collaborations!&center=true&width=600&height=100&font=Fira%20Code&size=22&pause=1000&color=58A6FF&vCenter=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+I'm+Abhijat;Full+Stack+Developer;Building+Amazing+Web+Experiences;Always+Learning+%26+Growing;Open+to+Collaborations!&center=true&width=600&height=60" />
   </a>
 </div>
 
 ---
 
-## About Me
+<!-- TABLE OF CONTENTS -->
 
-Hey there! I'm **Abhijat**, a passionate Full Stack Developer from India who loves turning ideas into reality through code. I thrive on building seamless web experiences that combine beautiful design with powerful functionality. When I'm not coding, you'll find me exploring the latest web technologies, solving algorithmic challenges on LeetCode, or experimenting with 3D animations.
+## Table of Contents
 
-**Currently working on:** [PreViewFlow](https://github.com/abhijat05) - Next-gen workflow management platform  
-**Learning:** React.js, Next.js, AWS Cloud Architecture  
-**Ask me about:** MERN Stack, DevOps, Three.js animations  
-**Fun fact:** I love combining code with creative 3D visuals!
+- [About Me](#about-me)
+- [Highlights](#highlights)
+- [Tech Stack](#tech-stack)
+- [Projects](#projects)
+- [Stats](#github-stats)
+- [Connect](#connect-with-me)
 
 ---
 
-## Tech Stack & Tools
+## About Me
 
-<div align="center">
+Hi — I'm **Abhijat Sinha**, a Full Stack Developer from India. I enjoy building web applications that are not only functional but also a delight to use. I focus on modern React-based frontends, scalable Node.js backends, and cloud infrastructure that supports production workloads.
+
+- Currently exploring: React.js, Next.js, and AWS architecture
+- Interests: MERN stack, DevOps automation, Three.js and creative web visuals
+- Fun fact: I love combining code with 3D animations to make interactive experiences
+
+---
+
+## Highlights
+
+- Building PreViewFlow — a next-gen workflow management platform.
+- Comfortable working across the full stack (frontend, backend, infra).
+- Open to collaboration, mentorship, and interesting projects.
+
+---
+
+## Tech Stack
 
 ### Frontend
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -39,6 +58,7 @@ Hey there! I'm **Abhijat**, a passionate Full Stack Developer from India who lov
 </p>
 
 ### Backend & Database
+
 <p>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
@@ -47,6 +67,7 @@ Hey there! I'm **Abhijat**, a passionate Full Stack Developer from India who lov
 </p>
 
 ### DevOps & Cloud
+
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -58,6 +79,7 @@ Hey there! I'm **Abhijat**, a passionate Full Stack Developer from India who lov
 </p>
 
 ### Development Tools
+
 <p>
 <img src="https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
@@ -65,7 +87,12 @@ Hey there! I'm **Abhijat**, a passionate Full Stack Developer from India who lov
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
-</div>
+---
+
+## Projects
+
+- PreViewFlow — Next-gen workflow management platform (link: https://github.com/abhijat05)
+- Other projects and experiments are available on my GitHub profile. Feel free to explore and open issues or PRs.
 
 ---
 
@@ -94,7 +121,7 @@ Hey there! I'm **Abhijat**, a passionate Full Stack Developer from India who lov
 ## Connect With Me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijat-sinha-990ab82a4)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im_abhijat05)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/abhijat05/)
@@ -107,7 +134,7 @@ Hey there! I'm **Abhijat**, a passionate Full Stack Developer from India who lov
 
 <div align="center">
 
-### Current Streak
+### Activity
 ![](https://github-readme-activity-graph.vercel.app/graph?username=abhijat05&theme=tokyo-night&hide_border=true)
 
 </div>
