@@ -10,19 +10,6 @@
 
 ---
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [About Me](#about-me)
-- [Highlights](#highlights)
-- [Tech Stack](#tech-stack)
-- [Projects](#projects)
-- [Stats](#github-stats)
-- [Connect](#connect-with-me)
-
----
-
 ## About Me
 
 Hi — I'm **Abhijat Sinha**, a Full Stack Developer from India. I enjoy building web applications that are not only functional but also a delight to use. I focus on modern React-based frontends, scalable Node.js backends, and cloud infrastructure that supports production workloads.
@@ -86,13 +73,6 @@ Hi — I'm **Abhijat Sinha**, a Full Stack Developer from India. I enjoy buildin
 <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
-
----
-
-## Projects
-
-- PreViewFlow — Next-gen workflow management platform (link: https://github.com/abhijat05)
-- Other projects and experiments are available on my GitHub profile. Feel free to explore and open issues or PRs.
 
 ---
 
